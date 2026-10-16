@@ -197,7 +197,7 @@ Work in progress. Chapters are being added topic-wise as the study progresses.
 
 | Unit | Notes | Numericals | Project Task | Revision Pack |
 |---|:---:|:---:|:---:|:---:|
-| 01 Introduction | ⬜ | n/a | ⬜ | ⬜ |
+| 01 Introduction | ✅ | n/a | ⬜ | ⬜ |
 | 02 Requirements and Design | ⬜ | n/a | ⬜ | ⬜ |
 | 03 Measurement and Metrics | ⬜ | ⬜ | ⬜ | ⬜ |
 | 04 Software Testing | ⬜ | ⬜ | ⬜ | ⬜ |
